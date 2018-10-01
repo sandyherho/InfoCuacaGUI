@@ -2,7 +2,7 @@
 
 <div style="text-align: justify"> Program ini merupakan aplikasi GUI Python sederhana yang bertujuan untuk menampilkan informasi cuaca di komputer pribadi anda dengan memanfaatkan data yang didapatkan dari OpenWeatherMap API. </div><br>
 
-<div style="text-align: justify"> Untuk menjalankan program ini anda harus melakukan instalasi [Python 3] (https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe)  (jangan lupa atur PATH). Kemudian buka terminal (MacOS dan GNU/Linux) atau PowerShell (Windows) kalian, lalu jalankan: </div>
+<div style="text-align: justify"> Untuk menjalankan program ini anda harus melakukan instalasi <a href="https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe"> Python 3 </a> (jangan lupa atur PATH). Kemudian buka terminal (MacOS dan GNU/Linux) atau PowerShell (Windows) kalian, lalu jalankan: </div>
 
 * ```pip install tkinter```
 
